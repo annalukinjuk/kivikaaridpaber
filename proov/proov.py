@@ -38,7 +38,7 @@ while True:
             print("oli valitud kivi")
             break
     except:
-    ValueError
+        ValueError
 m=3
 while m not in [1,2]:
     try:
